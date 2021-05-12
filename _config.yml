@@ -11,7 +11,7 @@ title                    : "Kiera van der Sande"
 title_separator          : "-"
 name                     : &name "Kiera van der Sande"
 description              : &description "Applied Math PhD student at University of Colorado Boulder"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://kierav.github.io"
+url                      : https://kierav.github.io # the base hostname & protocol for your site e.g. "https://kierav.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kierav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kiera-van-der-sande-b59b73a5/"
   orcid            : "http://orcid.org/0000-0001-6606-6481"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
